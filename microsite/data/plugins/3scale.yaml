@@ -2,7 +2,7 @@
 title: APIs with 3scale
 author: Red Hat
 authorUrl: https://redhat.com
-category: null
+category:
 description: Synchronize 3scale content into the Backstage catalog.
 documentation: https://janus-idp.io/plugins/3scale
 iconUrl: https://janus-idp.io/images/plugins/3scale.svg
